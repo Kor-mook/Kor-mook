@@ -1,7 +1,7 @@
 # 🚀 Kor-mook's Dev Log
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DF762&width=435&center=true&vCenter=true&lines=Leveling+up!;Building+Future+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DF762&width=435&center=true&vCenter=true&lines=Leveling+up;" alt="Typing SVG" />
 </p>
 
 <p align="center">
