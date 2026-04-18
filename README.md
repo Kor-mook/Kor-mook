@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=6DF762&width=1000&height=100&center=true&vCenter=true&lines=Leveling+up!"; alt="Typing SVG" />
+  <img width="320" height="155" alt="title" src="https://github.com/user-attachments/assets/d0909e0e-f6d5-487a-9829-8b1a75b5c944" />
 </p>
 
 ## 
