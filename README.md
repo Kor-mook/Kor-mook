@@ -1,7 +1,6 @@
 <p align="center">
   <img width="480" height="274" alt="cat-typing" src="https://github.com/user-attachments/assets/ab278a85-1381-4003-b7f5-08a53b650fd5" />
 </p>
-<h1 align="center">CM Kang</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
