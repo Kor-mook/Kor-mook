@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/7b25ce8b-e459-4a13-bd3b-f3d2f6e4c84f" />
+  <img width="480" height="274" alt="cat-typing" src="https://github.com/user-attachments/assets/ab278a85-1381-4003-b7f5-08a53b650fd5" />
 </p>
 <h1 align="center">CM Kang</h1>
 <p align="center">
