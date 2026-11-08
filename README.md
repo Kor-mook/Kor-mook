@@ -2,9 +2,9 @@
   <img width="320" height="155" alt="title" src="https://github.com/user-attachments/assets/d0909e0e-f6d5-487a-9829-8b1a75b5c944" />
 </p>
 
-## 
 <br>
-<h1>CM Kang</h1>
+<h1 align="center">CM Kang</h1>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
